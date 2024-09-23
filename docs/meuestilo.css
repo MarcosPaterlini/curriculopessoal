@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(166, 216, 250);
+    text-align: center;
+    
+}
+
+div{
+     border-bottom: 1px solid; /*divisoes dos temas*/
+    margim:3%;
+}
+
+.menu{
+    display: inline; /* tirar as bolinhas do li da pagina */
+    width: 30%; /* espaçamento do menu*/  
+}
+
+.foi{  
+    display: flex; /* arrumar o menu */
+}
+
+.formulario {
+    background-color: white;
+    width: 80%; /* Largura da parte que tem minhas informaçoes */
+    margin: 20px auto; /* Centralizar a borda ao meio */
+    padding: 20px; /* dar um espaço da borda */
+    border: 2px solid black; /* Borda preta */
+    border-radius: 10px; /* Bordas arredondadas */
+    text-align: left; /* Alinha o conteúdo à esquerda */
+}
+
+
+
+
+    
